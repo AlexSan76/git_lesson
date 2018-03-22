@@ -1,8 +1,10 @@
 def my_squere(x):
-	"""docs
+<<<<<<< HEAD
+	
+=======
 	"""docs
 	"""docs2
-	"""docs4
+>>>>>>> 83ff066e5f08d69d31f7aaa98b3d8f01cc99f140
 	return(x **2)
 print(my_squere(4))
 
