@@ -1,5 +1,7 @@
 def my_squere(x):
 	"""docs
+	"""docs2
+	"""docs3
 	"""docs
 	"""docs2
 	"""docs4
