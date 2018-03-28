@@ -1,3 +1,4 @@
+
 def my_squere(x):
 	"""docs
 	"""docs2
@@ -9,6 +10,7 @@ def my_squere(x):
 
 
 def my_squere3(x):
+	"""operador al cubeo
 	return(x * x * x)
 
 
