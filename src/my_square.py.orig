@@ -1,13 +1,18 @@
 def my_squere(x):
 	"""docs
-<<<<<<< HEAD
+	"""docs2
+	"""docs3
 	"""docs
 	"""docs2
 	"""docs4
-=======
-	"""docs2
-	"""docs3
->>>>>>> bfe83974a2ffd2a101d8cd662f4d2f072363a652
 	return(x **2)
-print(my_squere(4))
+<<<<<<< HEAD
+<<<<<<< HEAD
+print(my_squere(50))
+=======
+print(my_squere(66))
+>>>>>>> 47eae9138e50392aa93befaa5b81c7321cf01ade
+=======
+print(my_squere(77))
+>>>>>>> 20a364f3772f4bf9ed1d478ce97d196beff5ef42
 
