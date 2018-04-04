@@ -1,7 +1,7 @@
 
 def my_squere(x):
 
-
+	""" Doc1
 	return(x **2)
 
 
