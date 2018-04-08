@@ -13,3 +13,10 @@ def my_squere3(x):
 print(my_squere(66))
 print(my_squere3(3))
 
+
+
+method printEcho( var as string )
+{
+	print var;
+	
+}
