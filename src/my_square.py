@@ -20,3 +20,10 @@ method printEcho( var as string )
 	print var;
 	
 }
+
+method Read(  ) As String
+{
+	return io.Read(5000);
+	
+}
+
